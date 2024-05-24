@@ -1,2 +1,6 @@
 # Linux_trouble_doc
-Some recolected documentation obtained to resolve linux issues
+
+## Target
+
+To recollect documentation from different sources (mail list, forum and another one) to resolve Linux issues. Divided in distributions that I've worked.
+
